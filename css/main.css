@@ -1,0 +1,20 @@
+body {
+  background-color: aliceblue;
+}
+
+.form {
+  margin-left: 130px;
+}
+
+.input {
+  width: 400px;
+}
+
+.input-author {
+  width: 400px;
+}
+
+.btn {
+  margin-left: 325px;
+  width: 200px;
+}
